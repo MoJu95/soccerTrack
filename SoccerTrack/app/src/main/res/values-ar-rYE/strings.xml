@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">تتبع الكرة</string>
+    <string name="team1">الفريق أ</string>
+    <string name="team2">الفريق ب</string>
+    <string name="btnB">هدف للفريق أ</string>
+    <string name="btnA">هدف للفريق ب</string>
+    <string name="rstbtn">اعادة</string>
+    <string name="goal">الأهداف</string>
+    <string name="foul">الأخطاء</string>
+    <string name="foulTeamA">خطأ للفريق أ</string>
+    <string name="foulTeamB">خطأ للفريق ب</string>
+</resources>

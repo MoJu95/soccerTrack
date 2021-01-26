@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Soccer Track</string>
+    <string name="team1">Team A</string>
+    <string name="team2">Team B</string>
+    <string name="btnB"> GOAL Team A</string>
+    <string name="btnA"> GOAL Team B</string>
+    <string name="rstbtn">RESET</string>
+    <string name="goal">GOALS</string>
+    <string name="foul">FOULS</string>
+    <string name="foulTeamA">FOUL Team A</string>
+    <string name="foulTeamB">FOUL Team B</string>
+</resources>
